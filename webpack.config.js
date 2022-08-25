@@ -24,10 +24,7 @@ module.exports = {
 		host: '0.0.0.0'
 	},
 	module: {
-		rules: [{
-				test: /\.ts?$/,
-				loader: "ts-loader"
-			},
+		rules: [
 			{
 				test: /\.css$/i,
 				use: ['style-loader', 'css-loader'],

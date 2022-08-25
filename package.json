@@ -12,7 +12,7 @@
   "author": "Zappar Limited",
   "license": "MIT",
   "dependencies": {
-    "@zappar/zappar-aframe": "0.3.32",
+    "@zappar/zappar-aframe": "ZAPPAR_VERSION",
     "aframe": "^1.1.0"
   },
   "devDependencies": {
